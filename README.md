@@ -8,11 +8,11 @@ Este é um jogo de **Campo Minado** clássico desenvolvido para o terminal como 
 - Contador de bombas adjacentes.
 - Interface simples via console.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - Linguagem: **C++**
 - Bibliotecas: `iostream`, `vector`, `ctime`, `cstdlib`.
 
-## 🎮 Como Jogar
+## Como Jogar
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/Cauaedug/campo-minado-em-CPP.git](https://github.com/Cauaedug/campo-minado-em-CPP.git)-
